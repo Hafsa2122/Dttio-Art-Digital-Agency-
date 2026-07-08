@@ -18,11 +18,18 @@ Welcome to the frontend repository for Dttio Art Digital Agency. This project is
    ```bash
    npm run dev
    ```
+   
 
 3. Build for production:
    ```bash
    npm run build
    ```
+local link : http://localhost:5173/
+
+
+
+
+Created by Hafsa 
 
 ---
 *Created by Hafsa*
